@@ -1,0 +1,20 @@
+C:\Projects\C#\two-sem\lab-3\lab-3\bin\Debug\lab-3.exe.config
+C:\Projects\C#\two-sem\lab-3\lab-3\bin\Debug\lab-3.exe
+C:\Projects\C#\two-sem\lab-3\lab-3\bin\Debug\lab-3.pdb
+C:\Projects\C#\two-sem\lab-3\lab-3\obj\Debug\lab-3.csprojAssemblyReference.cache
+C:\Projects\C#\two-sem\lab-3\lab-3\obj\Debug\lab_3.Form1.resources
+C:\Projects\C#\two-sem\lab-3\lab-3\obj\Debug\lab_3.Properties.Resources.resources
+C:\Projects\C#\two-sem\lab-3\lab-3\obj\Debug\lab-3.csproj.GenerateResource.cache
+C:\Projects\C#\two-sem\lab-3\lab-3\obj\Debug\lab-3.csproj.CoreCompileInputs.cache
+C:\Projects\C#\two-sem\lab-3\lab-3\obj\Debug\lab-3.exe
+C:\Projects\C#\two-sem\lab-3\lab-3\obj\Debug\lab-3.pdb
+C:\Projects\C#\two-sem\lab-3(Win Forms)\lab-3\bin\Debug\lab-3.exe.config
+C:\Projects\C#\two-sem\lab-3(Win Forms)\lab-3\bin\Debug\lab-3.exe
+C:\Projects\C#\two-sem\lab-3(Win Forms)\lab-3\bin\Debug\lab-3.pdb
+C:\Projects\C#\two-sem\lab-3(Win Forms)\lab-3\obj\Debug\lab-3.csprojAssemblyReference.cache
+C:\Projects\C#\two-sem\lab-3(Win Forms)\lab-3\obj\Debug\lab_3.Form1.resources
+C:\Projects\C#\two-sem\lab-3(Win Forms)\lab-3\obj\Debug\lab_3.Properties.Resources.resources
+C:\Projects\C#\two-sem\lab-3(Win Forms)\lab-3\obj\Debug\lab-3.csproj.GenerateResource.cache
+C:\Projects\C#\two-sem\lab-3(Win Forms)\lab-3\obj\Debug\lab-3.csproj.CoreCompileInputs.cache
+C:\Projects\C#\two-sem\lab-3(Win Forms)\lab-3\obj\Debug\lab-3.exe
+C:\Projects\C#\two-sem\lab-3(Win Forms)\lab-3\obj\Debug\lab-3.pdb

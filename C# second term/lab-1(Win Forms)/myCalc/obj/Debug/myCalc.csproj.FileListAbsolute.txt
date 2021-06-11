@@ -1,0 +1,10 @@
+C:\Projects\C#\two-sem\myCalc\myCalc\bin\Debug\myCalc.exe.config
+C:\Projects\C#\two-sem\myCalc\myCalc\bin\Debug\myCalc.exe
+C:\Projects\C#\two-sem\myCalc\myCalc\bin\Debug\myCalc.pdb
+C:\Projects\C#\two-sem\myCalc\myCalc\obj\Debug\myCalc.csprojAssemblyReference.cache
+C:\Projects\C#\two-sem\myCalc\myCalc\obj\Debug\myCalc.Properties.Resources.resources
+C:\Projects\C#\two-sem\myCalc\myCalc\obj\Debug\myCalc.csproj.GenerateResource.cache
+C:\Projects\C#\two-sem\myCalc\myCalc\obj\Debug\myCalc.csproj.CoreCompileInputs.cache
+C:\Projects\C#\two-sem\myCalc\myCalc\obj\Debug\myCalc.exe
+C:\Projects\C#\two-sem\myCalc\myCalc\obj\Debug\myCalc.pdb
+C:\Projects\C#\two-sem\myCalc\myCalc\obj\Debug\myCalc.Form1.resources

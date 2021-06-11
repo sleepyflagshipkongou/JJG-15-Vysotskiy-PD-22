@@ -1,0 +1,27 @@
+     private FileInfo FindFile(string directory, string fileName)
+        {
+            DirectoryInfo dir = new DirectoryInfo(directory);
+            DirectoryInfo[] dires = dir.GetDirectories();
+            FileInfo[] files = dir.GetFiles();
+
+            FileInfo someFile = null;
+
+            if (dires is DirectoryInfo[])
+                foreach (DirectoryInfo myDir in dires)
+                {
+                    someFile = FindFile(myDir.FullName, fileName);
+                    if (someFile != null)
+                        return someFile;
+                }
+
+            foreach (FileInfo file in files)
+            {
+                if (file.Name == fileName)
+                {
+                    someFile = file;
+                    break;
+                }
+            }
+
+            return someFile;
+        }
